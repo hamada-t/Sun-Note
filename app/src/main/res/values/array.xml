@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="entry_sample">
+        <item>@string/entry1</item>
+        <item>@string/entry2</item>
+    </array>
+
+    <string-array name="entry_sample_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+</resources>

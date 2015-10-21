@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">SunNote</string>
+
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- SelectActivity -->
+    <string name="record_button">きろくする</string>
+    <string name="one_play_button">一つだけえらぶ</string>
+    <string name="date_play_button">日付でえらぶ</string>
+    <string name="time_play_button">時間でえらぶ</string>
+    <string name="multi_select_play_button">いくつかえらぶ</string>
+    <string name="setting_button">せってい</string>
+
+    <string name="transition_list_item">transition_list_item</string>
+
+    <!-- SettingsActivity -->
+    <string name="pref_header_general">各種設定</string>
+
+    <string name="pref_title_social_recommendations">モード切替</string>
+    <string name="pref_description_social_recommendations">
+        オンで太陽モード、オフで月モードに切り替わります。
+    </string>
+    <string name="mode_text_on">太陽モード</string>
+    <string name="mode_text_off">月モード</string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="entry1">Entry1</string>
+    <string name="entry2">Entry2</string>
+    <string name="key_list_preference">KeyListPreference</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="delete_button">データをすべて削除する</string>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">通知設定</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <!--PlayListActivity-->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="dummy_title">Dummy title</string>
+    <string name="dummy_subtitle">Dummy subtitle</string>
+
+    <string name="delete_content_description">Delete</string>
+
+    <string name="touched_primary_message">Touched primary list item target.</string>
+    <string name="touched_secondary_message">Touched secondary list item target (delete).</string>
+
+    <string name="docs_link_title">Design docs: borderless buttons</string>
+</resources>
